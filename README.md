@@ -65,7 +65,7 @@ The image below shows the About Me page of my portfolio.
 ![About Me Portfolio Page](assets/imgs/screenshots/About-Me.png)
 
 The image below shows the projects page of my portfolio.
-![About Me Portfolio Page](assets/imgs/screenshots/Portfolio.png)
+![Projects Portfolio Page](assets/imgs/screenshots/Portfolio.png)
 
 
 #### Design
