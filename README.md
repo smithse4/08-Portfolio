@@ -61,6 +61,12 @@ Your updated site should have the following content:
 
   * Screenshot of the deployed application
 
+The image below shows the About Me page of my portfolio.
+![About Me Portfolio Page](assets/imgs/screenshots/About-Me.png)
+
+The image below shows the projects page of my portfolio.
+![About Me Portfolio Page](assets/imgs/screenshots/Portfolio.png)
+
 
 #### Design
 
@@ -103,6 +109,8 @@ the default bootstrap theme or an unstyled HTML site.
 
 * Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
 
+The image below shows my updated GitHub profile.
+![GitHub](assets/imgs/screenshots/GitHub.png)
 
 ### Updated Resume 
 
@@ -112,5 +120,8 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 ### Updated LinkedIn Profile 
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
+The image below shows my updated LinkedIn profile.
+![LinkedIn](assets/imgs/screenshots/LinkedIn.png)
 
 
