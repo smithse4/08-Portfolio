@@ -162,7 +162,28 @@ main {
 
 /* PORTFOLIO PAGE */
 .port-image {
-  margin: 20px auto;
+  margin: 5px auto;
+  border: 1px solid black;
+}
+
+h5 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.repo-links {
+  color: black;
+  margin: 0;
+}
+
+.repo-links:hover {
+  color: grey;
+}
+
+p {
+  margin-bottom: 0;
 }
 /* END PORTFOLIO PAGE */
 
@@ -196,3 +217,11 @@ main {
 }
 
 /* END CONTACT FORM PAGE */
+
+.contacts {
+  color: #041E3C;
+}
+
+.contacts:hover {
+  color: #4C1B30;
+}
