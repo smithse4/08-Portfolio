@@ -1,8 +1,16 @@
 # Unit 08 Project 1 Homework: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
+## Description
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+Now that I have some practice with APIs and a project to share, I have updated my portfolio page and other materials to build toward being employer competitive.
+
+## Links
+
+Linked Github repository and deployed application for reference:
+
+[Github repository](https://github.com/smithse4/08-Portfolio)
+
+[Deployed application](https://smithse4.github.io/08-Portfolio/)
 
 
 ## Requirements
