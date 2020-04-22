@@ -1,8 +1,8 @@
-# Unit 08 Project 1 Homework: Professional Materials
+# Professional Materials
 
 ## Description
 
-Now that I have some practice with APIs and a project to share, I have updated my portfolio page and other materials to build toward being employer competitive.
+Now that I've built a full-stack web application and have another project to share, I've updated my portfolio page and other materials to build toward being employer competitive.
 
 ## Links
 
@@ -15,9 +15,9 @@ Linked Github repository and deployed application for reference:
 
 ## Requirements
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
 
 * Updated resume
 
@@ -62,10 +62,10 @@ Your updated site should have the following content:
   * Screenshot of the deployed application
 
 The image below shows the About Me page of my portfolio.
-![About Me Portfolio Page](assets/imgs/screenshots/About-Me.png)
+![About Me Portfolio Page](./assets/imgs/screenshots/About-Me.png)
 
 The image below shows the projects page of my portfolio.
-![Projects Portfolio Page](assets/imgs/screenshots/Portfolio.png)
+![Projects Portfolio Page](./assets/imgs/screenshots/portfolio.png)
 
 
 #### Design
@@ -109,9 +109,6 @@ the default bootstrap theme or an unstyled HTML site.
 
 * Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
 
-The image below shows my updated GitHub profile.
-![GitHub](assets/imgs/screenshots/GitHub.png)
-
 ### Updated Resume 
 
 Submit a clear, concise and compelling resume, tailored to the type of job youâ€™re looking for.
@@ -121,7 +118,5 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
-The image below shows my updated LinkedIn profile.
-![LinkedIn](assets/imgs/screenshots/LinkedIn.png)
 
 
